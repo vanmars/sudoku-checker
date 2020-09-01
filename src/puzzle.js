@@ -1,5 +1,5 @@
 // Create a constructor for a puzzle with row and column properties
-function Puzzle (){
+export default function Puzzle (){
   this.rows = [];
   this.columns = [];
 }
